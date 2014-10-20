@@ -14,7 +14,7 @@ In order of the random order in which they are presented, here's my solutions:
   * Portability... Fuck that. Target Intel/AMD.
 2. No more "flat file" crap. Sqlight-type configuration with schemas only. It is INSANE that a single character error in files like
 fstab or sudoers can kill the system irreparably.
-3. We need a modern file system. ext4fs is essentially ext2fs with some extra fluff. [Teodore Tso](http://http://thunk.org/tytso/blog/) [was right in 2008](https://lkml.org/lkml/2008/8/1/217).
+3. We need a modern file system. ext4fs is essentially ext2fs with some extra fluff. [Teodore Tso](http://thunk.org/tytso/blog/) [was right in 2008](https://lkml.org/lkml/2008/8/1/217).
 4. Let xorg crawl up in a corner and DIE. We don't need stippled lines, network transparency, Xresources and Athena widgets. We need one standard, simple display manager from boot to desktop.
 5. OpenGL... We need a better API. We need shader programming. And software rendering must die, it was a stupid idea in 1975 and it still sucks.
 6. REAL concurrency. No more threads. No more 4711 different "synchronization primitives", all of which suck.
