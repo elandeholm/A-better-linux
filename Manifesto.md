@@ -21,7 +21,7 @@ fstab or sudoers can kill the system irreparably.
 7. ONE "toolkit", please. Nobody likes context switching between GTK, Qt, AWT, Motif, TK. See how Apple doesn't suck? It's because the UI is consistent.
 8. Kill signals and 1970:s style IPC. Exceptions are nice. Something dbus-like would be nice.
 10. Enforce a modern, standardized build system. Just say no to #ifndef, m4, autotools and Makefile!
-11. Some of that GNU stuff was kinda spiffy. Let's standardize the spiffy stuff and junk the bad.
+11. Some of that GNU stuff was kinda spiffy. Let's standardize the spiffy stuff and junk [the bad](http://en.wikipedia.org/wiki/Shellshock_%28software_bug%29).
 12. Remove kernel dependencies on glibc and gcc. Now.
 13. ELF seriously needs to be simplified.
 
