@@ -3,8 +3,8 @@ A better "linux", a Manifesto
 
 ### by Emanuel Landeholm (I'm no Torvalds, but I am a programmer and I've been using linux since 1998.)
 
-In order of the random order in which they are presented, here are my solutions:
---------------------------------------------------------------------------------
+In order of the random arrangement in which they are sequentially presented, here are my solutions:
+---------------------------------------------------------------------------------------------------
 
 1. Solve dependency hell once and for all
   * Standardize and enforce! (IPC, RPC, exceptions, gettext, sudo, shells, codecs, fullscreen, touch, web, compiler, ...)
