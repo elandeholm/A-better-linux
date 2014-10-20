@@ -23,6 +23,5 @@ fstab or sudoers can kill the system irreparably.
 11. Some of that GNU stuff was kinda spiffy. Let's standardize the spiffy stuff and junk [the bad](http://en.wikipedia.org/wiki/Shellshock_%28software_bug%29).
 12. Remove kernel dependencies on glibc and gcc. Now.
 13. ELF seriously needs to be simplified.
-
 64738. Profit!
 
