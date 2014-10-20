@@ -1,8 +1,7 @@
 A better "linux", a Manifesto
 =============================
 
-by Emanuel Landeholm (I'm no Torvalds, but I am a programmer and I've been using linux since 1998.)
----------------------------------------------------------------------------------------------------
+### by Emanuel Landeholm (I'm no Torvalds, but I am a programmer and I've been using linux since 1998.)
 
 In order of the random order in which they are presented, here are my solutions:
 --------------------------------------------------------------------------------
